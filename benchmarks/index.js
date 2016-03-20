@@ -52,9 +52,9 @@ bitcoind.on('ready', function() {
 
   var client = new bitcoin.Client({
     host: 'localhost',
-    port: 18332,
-    user: 'bitcoin',
-    pass: 'local321'
+    port: 18288,
+    user: 'cbitrpcuser',
+    pass: 'cbitrpcpassword'
   });
 
   async.series([

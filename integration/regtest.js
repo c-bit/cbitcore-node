@@ -82,9 +82,9 @@ describe('Daemon Binding Functionality', function() {
         client = new BitcoinRPC({
           protocol: 'https',
           host: '127.0.0.1',
-          port: 18332,
-          user: 'bitcoin',
-          pass: 'local321',
+          port: 18288,
+          user: 'cbitrpcuser',
+          pass: 'rpcpassword',
           rejectUnauthorized: false
         });
 

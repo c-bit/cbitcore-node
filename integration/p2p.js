@@ -85,15 +85,15 @@ describe('P2P Functionality', function() {
         client = new BitcoinRPC({
           protocol: 'https',
           host: '127.0.0.1',
-          port: 18332,
-          user: 'bitcoin',
-          pass: 'local321',
+          port: 18288,
+          user: 'cbitrpcuser',
+          pass: 'rpcpassword',
           rejectUnauthorized: false
         });
 
         peer = new Peer({
           host: '127.0.0.1',
-          port: '18444',
+          port: '18999',
           network: regtestNetwork
         });
 
