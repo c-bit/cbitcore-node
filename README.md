@@ -42,9 +42,9 @@ bitcore-node start --daemon
 
 There are several add-on services available to extend the functionality of Bitcore:
 
-- [Insight API](https://github.com/bitpay/insight-api/tree/v0.3.0)
-- [Insight UI](https://github.com/bitpay/insight/tree/v0.3.0)
-- [Bitcore Wallet Service](https://github.com/bitpay/bitcore-wallet-service)
+- [Insight API](https://github.com/c-bit/insight-api/tree/v0.3.0)
+- [Insight UI](https://github.com/c-bit/insight/tree/v0.3.0)
+- [Bitcore Wallet Service](https://github.com/c-bit/bitcore-wallet-service)
 
 ## Documentation
 
@@ -63,11 +63,11 @@ There are several add-on services available to extend the functionality of Bitco
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/bitpay/bitcore/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/c-bit/cbitcore/blob/master/CONTRIBUTING.md) file.
 
 ## License
 
-Code released under [the MIT license](https://github.com/bitpay/bitcore-node/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/c-bit/bitcore-node/blob/master/LICENSE).
 
 Copyright 2013-2015 BitPay, Inc.
 
